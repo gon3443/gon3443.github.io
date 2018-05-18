@@ -1,0 +1,61 @@
+body {
+  background-color: blue;
+  color: white
+}
+
+h1 {
+  font-size: 35px;
+}
+
+h1,h2 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: yellow;
+}
+
+p {
+  text-align: center;
+  font-family: serif;
+}
+
+u1 {
+  width: 200px;
+  margin: 0 auto;
+  font-family: serif;
+  text-align: center;
+}
+
+
+li:hover {
+  font: bold;
+  font-size: 20px;
+  background-color: gray;
+}
+
+img {
+  margin: 10px auto;
+  display: block;
+}
+
+a {
+  text-align: center;
+  display: block;
+}
+
+#paragraph {
+  background-color: purple;
+}
+
+.imageSize {
+  width: 200px;
+  length: 200px;
+}
+
+#whiteBorder {
+  border: 2px solid white;
+}
+
+#heading {
+  background-color: green;
+}
